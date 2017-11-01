@@ -3,7 +3,7 @@ NFC App for Android Smart Phones
 
 
 # Functions
-1. Saving personnel info in tag
+1. Saving personal info in tag
 2. Saving SMS number and text in tag
 3. Saving Phone number for phone call in tag
 4. Lookups in Lost and Found using URL
